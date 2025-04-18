@@ -34,7 +34,7 @@ This simulation was developed to build familiarity with Alberta’s EPAP audit s
 
 Deficiency counts by facility type (Compression vs. Gathering):
 
-![Dashboard Preview](Deficiencies by facility type.png)
+![Dashboard Preview](defByFacType.png)
 
 ---
 
