@@ -30,6 +30,12 @@ This project simulates the Enhanced Production Audit Program (EPAP) process usin
 
 This simulation was developed to build familiarity with Alberta’s EPAP audit structure and demonstrate data analysis capabilities for oil and gas measurement operations.
 
+## 📷 Sample Output
+
+Deficiency counts by facility type (Compression vs. Gathering):
+
+![Dashboard Preview](Deficiencies%20by%20facility%20type.png)
+
 ---
 
 *Created by Minoda Fernando*  
