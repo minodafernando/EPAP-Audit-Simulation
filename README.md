@@ -32,13 +32,13 @@ This simulation was developed to build familiarity with Alberta’s EPAP audit s
 
 ## 📷 Sample Output
 
-Deficiency counts by facility type (Compression vs. Gathering):
+### Deficiency counts by facility type (Compression vs. Gathering):
 
 ![Dashboard Preview](defByFacType.png)
 
-Deficiency remediation status (Resolved vs. Outstanding):
+### Deficiency remediation status (Resolved vs. Outstanding):
 
-![Dashboard Preview]
+![Dashboard Preview](defRemStat.png)
 
 ---
 
