@@ -36,6 +36,10 @@ Deficiency counts by facility type (Compression vs. Gathering):
 
 ![Dashboard Preview](defByFacType.png)
 
+Deficiency remediation status (Resolved vs. Outstanding):
+
+![Dashboard Preview]
+
 ---
 
 *Created by Minoda Fernando*  
